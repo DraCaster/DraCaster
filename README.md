@@ -2,9 +2,7 @@
 <h2> Hi, I'm Lushan or DraCaster! 
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p align="center">
-  
+
   _Full Stack JS Developer_ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   
   <img src="https://github-readme-stats.vercel.app/api?username=dracaster&&show_icons=true&title_color=f69e7b&icon_color=00c87b&text_color=f69e7b&bg_color=383e56">
