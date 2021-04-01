@@ -3,7 +3,10 @@
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
 
+![](https://komarev.com/ghpvc/?username=DraCaster&color=blueviolet)
+
   _Full Stack JS Developer_ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  
   
   <img src="https://github-readme-stats.vercel.app/api?username=dracaster&&show_icons=true&title_color=f69e7b&icon_color=00c87b&text_color=f69e7b&bg_color=383e56">
 </p>
