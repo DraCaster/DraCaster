@@ -7,6 +7,9 @@
 
   _Full Stack JS Developer_ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   
+  _My Gist_ https://gist.github.com/DraCaster
+  
+  _My profile in CodersRank_ https://profile.codersrank.io/user/dracaster/
   
   <img src="https://github-readme-stats.vercel.app/api?username=dracaster&&show_icons=true&title_color=f69e7b&icon_color=00c87b&text_color=f69e7b&bg_color=383e56">
 </p>
