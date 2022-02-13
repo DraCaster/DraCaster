@@ -1,11 +1,18 @@
-<img align='right' src='https://raw.githubusercontent.com/DraCaster/DraCaster/master/sprites/Link_Sprite.gif' width='15%'>  
+<img align='left' src='https://raw.githubusercontent.com/DraCaster/DraCaster/master/sprites/Link_Sprite.gif' width='15%'>  
 <img align='right' src='https://raw.githubusercontent.com/DraCaster/DraCaster/master/sprites/Zelda_Sprite.gif' width='15%'>  
 
-# Hi, I'm Lushan or DraCaster! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
+<h2 align="center"> Hi, I'm Lushan or DraCaster! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+</h2>
+  
+ <div align="center">
+ 
 ![](https://komarev.com/ghpvc/?username=DraCaster&color=blueviolet)
 
-<br/>
+  
+  </div>
+  
+<br/><br/>
+
 
 <h2 align="center">About me</h2>
 
